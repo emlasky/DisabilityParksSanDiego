@@ -9,6 +9,6 @@ If you would like to obtain these datasets from the original source, please foll
 
 [California Protected Areas Database]([url](https://data.cnra.ca.gov/dataset/california-protected-areas-database))
 
-[American Community Survey (https://data.census.gov)]
+[American Community Survey]([url](https://data.census.gov))
 
-[Slope Index of Inequality Code Source (https://CRAN.R-project.org/package=PHEindicatormethods)]
+[Slope Index of Inequality Code Source]([url](https://CRAN.R-project.org/package=PHEindicatormethods))
