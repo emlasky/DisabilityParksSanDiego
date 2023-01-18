@@ -1,0 +1,70 @@
+﻿Grouping,Stratified, Total Estimate, Total Margin of Error, With a disability Estimate, With a disability Margin of Error, Percent with a disability Estimate, Percent with a disability Margin of Error
+Population,Total,"38,838,726","±2,943","4,146,951","±15,568",10.70%,±0.1
+Sex,Male,"19,165,001","±3,697","1,982,180","±10,546",10.30%,±0.1
+Sex,Female,"19,673,725","±2,607","2,164,771","±9,707",11.00%,±0.1
+Race,White alone,"21,771,440","±34,378","2,567,336","±12,097",11.80%,±0.1
+Race,Black or African American alone,"2,161,592","±7,793","319,304","±3,997",14.80%,±0.2
+Race,American Indian and Alaska Native alone,"304,272","±6,413","47,965","±1,538",15.80%,±0.5
+Race,Asian alone,"5,804,879","±11,763","475,546","±5,302",8.20%,±0.1
+Race,Native Hawaiian and Other Pacific Islander alone,"147,005","±2,438","16,171",±978,11.00%,±0.6
+Race,Some other race alone,"5,561,635","±33,652","444,740","±6,618",8.00%,±0.1
+Race,Two or more races,"3,087,903","±30,626","275,889","±6,908",8.90%,±0.2
+Race,"White alone, not Hispanic or Latino","14,166,137","±5,844","1,917,983","±10,301",13.50%,±0.1
+Race,Hispanic or Latino (of any race),"15,212,871","±2,166","1,276,492","±10,391",8.40%,±0.1
+Age,Under 5 years,"2,408,871",±728,"16,923","±1,260",0.70%,±0.1
+Age,5 to 17 years,"6,534,036",±956,"289,883","±4,592",4.40%,±0.1
+Age,18 to 34 years,"9,507,186","±3,166","499,087","±6,597",5.20%,±0.1
+Age,35 to 64 years,"14,840,209","±2,670","1,445,493","±9,698",9.70%,±0.1
+Age,65 to 74 years,"3,238,876","±1,415","742,749","±6,057",22.90%,±0.2
+Age,75 years and over,"2,309,548","±1,469","1,152,816","±6,506",49.90%,±0.3
+Hearing Difficulty,total,na,na,"1,147,500","±8,515",3.00%,±0.1
+Hearing Difficulty,under 18 years,"8,942,907",±682,"46,136","±1,891",0.50%,±0.1
+Hearing Difficulty,under 5 years,"2,408,871",±728,"12,264","±1,068",0.50%,±0.1
+Hearing Difficulty,5 to 17 years,"6,534,036",±956,"33,872","±1,458",0.50%,±0.1
+Hearing Difficulty,18 to 64 years,"24,347,395","±3,188","356,388","±4,768",1.50%,±0.1
+Hearing Difficulty,18 to 34 years,"9,507,186","±3,166","65,660","±2,355",0.70%,±0.1
+Hearing Difficulty,35 to 64 years,"14,840,209","±2,670","290,728","±4,429",2.00%,±0.1
+Hearing Difficulty,65 years and over,"5,548,424","±1,329","744,976","±6,414",13.40%,±0.1
+Hearing Difficulty,65 to 74 years,"3,238,876","±1,415","238,049","±3,284",7.30%,±0.1
+Hearing Difficulty,75 years and over,"2,309,548","±1,469","506,927","±5,332",21.90%,±0.2
+Vision Difficulty,total,na,na,"778,145","±8,055",2.00%,±0.1
+Vision Difficulty,under 18 years,"8,942,907",±682,"60,848","±2,104",0.70%,±0.1
+Vision Difficulty,under 5 years,"2,408,871",±728,"9,485",±995,0.40%,±0.1
+Vision Difficulty,5 to 17 years,"6,534,036",±956,"51,363","±1,842",0.80%,±0.1
+Vision Difficulty,18 to 64 years,"24,347,395","±3,188","374,002","±5,742",1.50%,±0.1
+Vision Difficulty,18 to 34 years,"9,507,186","±3,166","96,941","±2,937",1.00%,±0.1
+Vision Difficulty,35 to 64 years,"14,840,209","±2,670","277,061","±4,491",1.90%,±0.1
+Vision Difficulty,65 years and over,"5,548,424","±1,329","343,295","±4,957",6.20%,±0.1
+Vision Difficulty,65 to 74 years,"3,238,876","±1,415","127,366","±2,995",3.90%,±0.1
+Vision Difficulty,75 years and over,"2,309,548","±1,469","215,929","±3,298",9.30%,±0.1
+Cognitive Difficulty,total,na,na,"1,585,969","±11,101",4.40%,±0.1
+Cognitive Difficulty,under 18 years,"6,534,036",±956,"215,338","±4,041",3.30%,±0.1
+Cognitive Difficulty,18 to 64 years,"24,347,395","±3,188","844,846","±6,980",3.50%,±0.1
+Cognitive Difficulty,18 to 34 years,"9,507,186","±3,166","307,165","±5,036",3.20%,±0.1
+Cognitive Difficulty,35 to 64 years,"14,840,209","±2,670","537,681","±5,714",3.60%,±0.1
+Cognitive Difficulty,65 years and over,"5,548,424","±1,329","525,785","±6,182",9.50%,±0.1
+Cognitive Difficulty,65 to 74 years,"3,238,876","±1,415","169,320","±3,341",5.20%,±0.1
+Cognitive Difficulty,75 years and over,"2,309,548","±1,469","356,465","±5,087",15.40%,±0.2
+Ambulatory Difficulty,total,na,na,"2,118,765","±12,088",5.80%,±0.1
+Ambulatory Difficulty,under 18 years,"6,534,036",±956,"35,249","±1,548",0.50%,±0.1
+Ambulatory Difficulty,18 to 64 years,"24,347,395","±3,188","855,712","±7,834",3.50%,±0.1
+Ambulatory Difficulty,18 to 34 years,"9,507,186","±3,166","100,873","±2,914",1.10%,±0.1
+Ambulatory Difficulty,35 to 64 years,"14,840,209","±2,670","754,839","±7,487",5.10%,±0.1
+Ambulatory Difficulty,65 years and over,"5,548,424","±1,329","1,227,804","±8,466",22.10%,±0.2
+Ambulatory Difficulty,65 to 74 years,"3,238,876","±1,415","454,686","±5,703",14.00%,±0.2
+Ambulatory Difficulty,75 years and over,"2,309,548","±1,469","773,118","±5,983",33.50%,±0.3
+Selfcare Difficulty,total,na,na,"964,579","±8,298",2.60%,±0.1
+Selfcare Difficulty,under 18 years,"6,534,036",±956,"71,181","±2,336",1.10%,±0.1
+Selfcare Difficulty,18 to 64 years,"24,347,395","±3,188","360,887","±5,144",1.50%,±0.1
+Selfcare Difficulty,18 to 34 years,"9,507,186","±3,166","74,954","±2,536",0.80%,±0.1
+Selfcare Difficulty,35 to 64 years,"14,840,209","±2,670","285,933","±4,998",1.90%,±0.1
+Selfcare Difficulty,65 years and over,"5,548,424","±1,329","532,511","±5,594",9.60%,±0.1
+Selfcare Difficulty,65 to 74 years,"3,238,876","±1,415","151,055","±3,095",4.70%,±0.1
+Selfcare Difficulty,75 years and over,"2,309,548","±1,469","381,456","±5,016",16.50%,±0.2
+Independent Living Difficulty,total,na,na,"1,654,210","±9,255",5.50%,±0.1
+Independent Living Difficulty,18 to 64 years,"24,347,395","±3,188","733,610","±6,971",3.00%,±0.1
+Independent Living Difficulty,18 to 34 years,"9,507,186","±3,166","208,403","±4,067",2.20%,±0.1
+Independent Living Difficulty,35 to 64 years,"14,840,209","±2,670","525,207","±6,316",3.50%,±0.1
+Independent Living Difficulty,65 years and over,"5,548,424","±1,329","920,600","±7,233",16.60%,±0.1
+Independent Living Difficulty,65 to 74 years,"3,238,876","±1,415","265,337","±3,733",8.20%,±0.1
+Independent Living Difficulty,75 years and over,"2,309,548","±1,469","655,263","±6,200",28.40%,±0.3
